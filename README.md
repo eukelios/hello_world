@@ -1,2 +1,3 @@
 # hello_world
-Github Tutorial Project
+This is the readme file for the github tutorial.
+This text is new.
